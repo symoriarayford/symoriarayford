@@ -1,0 +1,9 @@
+Slimjay1998@paypal...
+- *loan status
+- $-2,000.00 Amount unpaid ...
+- $300.00 paid  ...
+
+<!---
+symoriarayford/symoriarayford is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
